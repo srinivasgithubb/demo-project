@@ -1,0 +1,14 @@
+/* AppNavbar.css */
+.navbar-custom {
+    background-color: #497FD6;
+    border-bottom: 3px solid gold;
+  }
+  
+  .nav-link-custom {
+    color: white !important; /* Use important only if necessary to override Bootstrap styles */
+  }
+  
+  .navbar-brand-custom {
+    color: white;
+  }
+  

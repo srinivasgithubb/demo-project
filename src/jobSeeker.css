@@ -1,0 +1,37 @@
+/* jobSeeker.css */
+.container {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+    background-color: #497FD6; /* Adjust the color to match the header from the image */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 3px solid gold; /* This adds the gold border at the bottom */
+  }
+  
+  .input-group {
+    margin-bottom: 1px;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  /* You can add additional styles to match specific elements from the provided image */
+  
